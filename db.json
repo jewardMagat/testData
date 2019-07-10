@@ -1,84 +1,77 @@
-[
-  {
-    "_id": "21285",
-    "_source": {
-      "id": 21285,
-      "uid": "1231231",
-      "barangay": "Quiapo"
-    }
-  },
-  {
-    "_id": "32296",
-    "_source": {
-      "id": 32296,
-      "uid": "1231313",
-      "barangay": "Quiajo"
-    }
-  },
-  {
-    "_id": "40029",
-    "_source": {
-      "id": 40029,
-      "uid": "asd",
-      "barangay": "Quipot"
-    }
-  },
-  {
-    "_id": "20981",
-    "_source": {
-      "id": 20981,
-      "uid": "asd",
-      "barangay": "Quipot"
-    }
-  },
-  {
-    "_id": "15626",
-    "_source": {
-      "id": 15626,
-      "uid": "asd",
-      "barangay": "Quirapi"
-    }
-  },
-  {
-    "_id": "34824",
-    "_source": {
-      "id": 34824,
-      "uid": "asd",
-      "barangay": "Quipot"
 
+{
+  "address" :
+  [
+    {
+      "_source": {
+        "id": 21285,
+        "uid": "1231231",
+        "barangay": "Quiapo"
+      }
+    },
+    {
+      "_source": {
+        "id": 32296,
+        "uid": "1231313",
+        "barangay": "Quiajo"
+      }
+    },
+    {
+      "_source": {
+        "id": 40029,
+        "uid": "asd",
+        "barangay": "Quipot"
+      }
+    },
+    {
+      "_source": {
+        "id": 20981,
+        "uid": "asd",
+        "barangay": "Quipot"
+      }
+    },
+    {
+      "_source": {
+        "id": 15626,
+        "uid": "asd",
+        "barangay": "Quirapi"
+      }
+    },
+    {
+      "_source": {
+        "id": 34824,
+        "uid": "asd",
+        "barangay": "Quipot"
+  
+      }
+    },
+    {  
+      "_source": {
+        "id": 40389,
+        "uid": "asd",
+        "barangay": "Quilao"
+      }
+    },
+    {
+      "_source": {
+        "id": 19717,
+        "uid": "asd",
+        "barangay": "Quitago"
+      }
+    },
+    {
+      "_source": {
+        "id": 31417,
+        "uid": "asd",
+        "barangay": "Quisao"
+      }
+    },
+    {
+      "_source": {
+        "id": 20319,
+        "uid": "asd",
+        "barangay": "Quilo"
+      }
     }
-  },
-  {  
-    "_id": "40389",
-    "_source": {
-      "id": 40389,
-      "uid": "asd",
-      "barangay": "Quilao"
-    }
-  },
-  {
-    "_id": "19717",
-    "_source": {
-      "id": 19717,
-      "uid": "asd",
-      "barangay": "Quitago"
-    }
-  },
-  {
-    "_id": "31417",
-    "_source": {
-      "id": 31417,
-      "uid": "asd",
-      "barangay": "Quisao"
-    }
-  },
-  {
-    "_id": "20319",
-    "_source": {
-      "id": 20319,
-      "uid": "asd",
-      "barangay": "Quilo"
-    }
-  }
-]
-
+  ]
+}
