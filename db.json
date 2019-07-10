@@ -1,21 +1,6 @@
 {
-  "address": [
-    {  
-      "_source": {
-        "id": 40389,
-        "uid": "asd",
-        "barangay": "Quilao"
-      }
-    },
-    {  
-      "_source": {
-        "id": 40389,
-        "uid": "asd",
-        "barangay": "Quilao"
-      }
-    },
-    {  
-      "_source": {
+  "posts": [
+    { "_source": {
         "id": 40389,
         "uid": "asd",
         "barangay": "Quilao"
