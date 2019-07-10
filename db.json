@@ -1,77 +1,14 @@
-
 {
-  "address" :
-  [
-    {
-      "_source": {
-        "id": 21285,
-        "uid": "1231231",
-        "barangay": "Quiapo"
-      }
-    },
-    {
-      "_source": {
-        "id": 32296,
-        "uid": "1231313",
-        "barangay": "Quiajo"
-      }
-    },
-    {
-      "_source": {
-        "id": 40029,
-        "uid": "asd",
-        "barangay": "Quipot"
-      }
-    },
-    {
-      "_source": {
-        "id": 20981,
-        "uid": "asd",
-        "barangay": "Quipot"
-      }
-    },
-    {
-      "_source": {
-        "id": 15626,
-        "uid": "asd",
-        "barangay": "Quirapi"
-      }
-    },
-    {
-      "_source": {
-        "id": 34824,
-        "uid": "asd",
-        "barangay": "Quipot"
-  
-      }
-    },
-    {  
-      "_source": {
-        "id": 40389,
-        "uid": "asd",
-        "barangay": "Quilao"
-      }
-    },
-    {
-      "_source": {
-        "id": 19717,
-        "uid": "asd",
-        "barangay": "Quitago"
-      }
-    },
-    {
-      "_source": {
-        "id": 31417,
-        "uid": "asd",
-        "barangay": "Quisao"
-      }
-    },
-    {
-      "_source": {
-        "id": 20319,
-        "uid": "asd",
-        "barangay": "Quilo"
-      }
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
