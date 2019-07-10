@@ -1,0 +1,182 @@
+[
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "21285",
+    "_score": 8.627064,
+    "_source": {
+      "id": 21285,
+      "uid": "33dd2375a5ac4d949de1ad468bade77c",
+      "barangay": "Quiapo",
+      "postal_code": "8014",
+      "municipality": "Jose Abad Santos",
+      "province": "Davao Occidental",
+      "region": "XI",
+      "latitude": "5.916667",
+      "longitude": "125.65",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "32296",
+    "_score": 7.191506,
+    "_source": {
+      "id": 32296,
+      "uid": "89b03975dfb94118aa21ec184d681785",
+      "barangay": "Quiajo",
+      "postal_code": "5803",
+      "municipality": "President Roxas",
+      "province": "Capiz",
+      "region": "VI",
+      "latitude": "11.433333",
+      "longitude": "122.933333",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "40029",
+    "_score": 5.7606287,
+    "_source": {
+      "id": 40029,
+      "uid": "11b648b965aa4c85a8e895f438692d69",
+      "barangay": "Quipot",
+      "postal_code": "4325",
+      "municipality": "Tiaong",
+      "province": "Quezon",
+      "region": "IV-A",
+      "latitude": "13.95",
+      "longitude": "121.316667",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "20981",
+    "_score": 5.7559,
+    "_source": {
+      "id": 20981,
+      "uid": "bc3cb044051c4652a11a23af82b95f42",
+      "barangay": "Quipot",
+      "postal_code": "5034",
+      "municipality": "Janiuay",
+      "province": "Iloilo",
+      "region": "VI",
+      "latitude": "10.95",
+      "longitude": "122.5",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "15626",
+    "_score": 5.753205,
+    "_source": {
+      "id": 15626,
+      "uid": "00338f9291324bccb228fba0fd7cf02b",
+      "barangay": "Quirapi",
+      "postal_code": "4713",
+      "municipality": "Castilla",
+      "province": "Sorsogon",
+      "region": "V",
+      "latitude": "12.95",
+      "longitude": "123.883333",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "34824",
+    "_score": 5.7513757,
+    "_source": {
+      "id": 34824,
+      "uid": "1883a04c041b49b9a454f34e26876f3e",
+      "barangay": "Quipot",
+      "postal_code": "4226",
+      "municipality": "San Juan",
+      "province": "Batangas",
+      "region": "IV-A",
+      "latitude": "13.833333",
+      "longitude": "121.4",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "40389",
+    "_score": 5.7513757,
+    "_source": {
+      "id": 40389,
+      "uid": "f25da6c785384a83954d217b18d51bbc",
+      "barangay": "Quilao",
+      "postal_code": "6503",
+      "municipality": "Tolosa",
+      "province": "Leyte",
+      "region": "VIII",
+      "latitude": "11.033333",
+      "longitude": "125.016667",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "19717",
+    "_score": 5.750419,
+    "_source": {
+      "id": 19717,
+      "uid": "e9f779d3d20947fa86b5b066024c5e24",
+      "barangay": "Quitago",
+      "postal_code": "4503",
+      "municipality": "Guinobatan",
+      "province": "Albay",
+      "region": "V",
+      "latitude": "13.183333",
+      "longitude": "123.6",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "31417",
+    "_score": 5.750419,
+    "_source": {
+      "id": 31417,
+      "uid": "5d781144ebb946c1924c4eaa363ee482",
+      "barangay": "Quisao",
+      "postal_code": "1910",
+      "municipality": "Pililla",
+      "province": "Rizal",
+      "region": "IV-A",
+      "latitude": "14.483333",
+      "longitude": "121.3",
+      "country": "Philippines"
+    }
+  },
+  {
+    "_index": "test",
+    "_type": "location",
+    "_id": "20319",
+    "_score": 5.175378,
+    "_source": {
+      "id": 20319,
+      "uid": "bb09612234794309895c9ff701212c05",
+      "barangay": "Quilo",
+      "postal_code": "4230",
+      "municipality": "Ibaan",
+      "province": "Batangas",
+      "region": "IV-A",
+      "latitude": "13.816667",
+      "longitude": "121.133333",
+      "country": "Philippines"
+    }
+  }
+]
