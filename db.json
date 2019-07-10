@@ -1,7 +1,5 @@
 [
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "21285",
     "_score": 8.627064,
     "_source": {
@@ -11,10 +9,7 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "32296",
-    "_score": 7.191506,
     "_source": {
       "id": 32296,
       "uid": "1231313",
@@ -22,8 +17,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "40029",
     "_score": 5.7606287,
     "_source": {
@@ -33,8 +26,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "20981",
     "_score": 5.7559,
     "_source": {
@@ -44,8 +35,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "15626",
     "_score": 5.753205,
     "_source": {
@@ -55,8 +44,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "34824",
     "_score": 5.7513757,
     "_source": {
@@ -66,9 +53,7 @@
 
     }
   },
-  {
-    "_index": "test",
-    "_type": "location",
+  {  
     "_id": "40389",
     "_score": 5.7513757,
     "_source": {
@@ -78,8 +63,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "19717",
     "_score": 5.750419,
     "_source": {
@@ -89,8 +72,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "31417",
     "_score": 5.750419,
     "_source": {
@@ -100,8 +81,6 @@
     }
   },
   {
-    "_index": "test",
-    "_type": "location",
     "_id": "20319",
     "_score": 5.175378,
     "_source": {
