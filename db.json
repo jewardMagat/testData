@@ -20,7 +20,7 @@
         "uid": "asd",
         "barangay": "Quilao"
       }
-    },
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
